@@ -16,6 +16,7 @@ reversed_text = text[::-1]
 print("reverse_string:", reversed_text)
 
 
+
 """
 2.Create a Python program that takes a user’s full name as input and prints the initials in uppercase.
 Example: Input: "john doe", Output: "J.D."
@@ -35,6 +36,7 @@ for part in name_parts:
 print("initials:", initials)
 
 
+
 """
 3.Write a Python program to check if a given string is a palindrome. A palindrome reads the same forwards
 and backward (e.g., "radar", "level"). Hint: Compare the string with its reverse.
@@ -52,6 +54,7 @@ else:
     print("It is not a palindrome.")
 
 
+
 """
 4.Create a Python program that asks the user to enter a sentence and counts the number of words in the sentence.
 Hint: Use the split() method to break the string into words.
@@ -64,6 +67,7 @@ words = sentence.split()
 
 # count the number of words
 word_count = len(words)
+
 
 
 """
